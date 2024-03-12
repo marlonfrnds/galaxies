@@ -19,7 +19,7 @@ Conceitos aplicados
 ## Layout do projeto
 <table>
   <tr>
-    <td><img src=".assets/screen.png"></td>
+    <td><img src="assets/screen.png"></td>
   </tr>   
 </table>
 
